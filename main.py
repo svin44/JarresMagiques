@@ -1,6 +1,8 @@
 import random
 
 # Ajout d'un commentaire- test commit
+# Ajout d'un deuxième commentaire de test
+
 
 print("Bienvenue dans le jeu !")
 
