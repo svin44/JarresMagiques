@@ -1,5 +1,7 @@
 import random
 
+# Ajout d'un commentaire- test commit
+
 print("Bienvenue dans le jeu !")
 
 # choix du parametrage/niveau de difficulté
